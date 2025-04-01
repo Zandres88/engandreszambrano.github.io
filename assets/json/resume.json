@@ -74,10 +74,8 @@
             "url": "https://www.comptia.org/content/network-of-experts",
             "startDate": "May 2024",
             "endDate": "Ongoing",
-            "summary": "Sharing knowledge, expertise and experience the challenges faced, what I like about my job and what it’s like to work in tech.",
-            "highlights": [
-                "Received a free T-shirt for my last contribution."
-            ]
+            "summary": "Sharing knowledge, expertise, and experiences about the challenges faced, what I enjoy about my job and what it’s like to work in tech.",
+            "highlights": ["Received a free T-shirt for my last contribution."]
         }
     ],
     "education": [
@@ -90,9 +88,7 @@
             "startDate": "2024-01",
             "endDate": "Ongoing",
             "score": "4.8 / 5.0",
-            "courses": [
-                "Principles of Information Security and Management Models, Professional Ethics and Computer Law, Cryptography, Ethical Hacking, Data Security, Network Security, Digital Forensics and Information Security Auditing under ISO 27001."
-            ]
+            "courses": ["Principles of Information Security and Management Models, Professional Ethics and Computer Law, Cryptography, Ethical Hacking, Data Security, Network Security, Digital Forensics and Information Security Auditing under ISO 27001."]
         },
         {
             "institution": "Harvard University (CS50)",
@@ -103,9 +99,7 @@
             "startDate": "2024",
             "endDate": "2024",
             "score": "9/10",
-            "courses": [
-                "hacking, cracking, social engineering, phishing attacks, passcodes, passwords, SSO, brute-force attacks, dictionary attacks, biometrics, multi-factor authentication, password managers, ethical hacking, distributed denial-of-service attacks, viruses, worms, botnets, SQL injection attacks, port-scanning, proxies, firewalls, automatic updates, closed-source, open-source software, buffer-overflow attacks, secure deletion, hashing, salting, secret-key, public-key encryption, digital signatures, full-disk encryption, ransomware, cookies, sessions, incognito mode, anonymization, de-identification, verification, operating systems, app stores"
-            ]
+            "courses": ["hacking, cracking, social engineering, phishing attacks, passcodes, passwords, SSO, brute-force attacks, dictionary attacks, biometrics, multi-factor authentication, password managers, ethical hacking, distributed denial-of-service attacks, viruses, worms, botnets, SQL injection attacks, port-scanning, proxies, firewalls, automatic updates, closed-source, open-source software, buffer-overflow attacks, secure deletion, hashing, salting, secret-key, public-key encryption, digital signatures, full-disk encryption, ransomware, cookies, sessions, incognito mode, anonymization, de-identification, verification, operating systems, app stores"]
         },
         {
             "institution": "Universidad Autónoma de Occidente",
@@ -116,9 +110,7 @@
             "startDate": "2004",
             "endDate": "2023",
             "score": "8/10",
-            "courses": [
-                "BSc"
-            ]
+            "courses": ["BSc"]
         },
         {
             "institution": "Universitat Politècnica de Valencia",
@@ -129,9 +121,7 @@
             "startDate": "2019",
             "endDate": "2019",
             "score": "10 / 10",
-            "courses": [
-                "Privacy, Security and Intellectual Property, Strategic Effects of IT on Business and Careers and Information Technology."
-            ]
+            "courses": ["Privacy, Security and Intellectual Property, Strategic Effects of IT on Business and Careers and Information Technology."]
         }
     ],
  "certificates": [
@@ -232,58 +222,24 @@
             "name": "Core Skills and interests",
             "level": "Core-Skills",
             "icon": "fa-solid fa-hashtag",
-            "keywords": [
-                "SLA and KPI Management with Service Manager",
-                "Task Management with Trello",
-                "Asset Inventory with Asset Manager",
-                "Linux - Audit – Hardening with Linix",
-                "Ethical Hacking (Kali, Metasploit, Nmap, Wireshark)",
-                "Audit reports – PwnDoc",
-                "Disk Encryption and Data Protection with VeraCrypt",
-                "Infrastructure Virtualization (Servers - Services)",
-                "Perimeter Security (PfSense, Firewalld - MikroTik)",
-                "Linux Administration (Ubuntu, Kali, CentOS)",
-                "Agile Methodologies (Scrum, Six Sigma)",
-                "BPMN, Gantt, SWOT Diagrams",
-                "ISO 27001 Compliance",
-                "SIEM - IDS/IPS (Elastic, Suricata)",
-                "Employee and Client Training",
-                "Structured Cabling and Telecommunications Knowledge"
-            ]
+            "keywords": ["SLA and KPI Management with Service Manager", "Task Management with Trello", "Asset Inventory with Asset Manager", "Linux - Audit – Hardening with Linix", "Ethical Hacking (Kali, Metasploit, Nmap, Wireshark)", "Audit reports – PwnDoc", "Disk Encryption and Data Protection with VeraCrypt", "Infrastructure Virtualization (Servers - Services)", "Perimeter Security (PfSense, Firewalld - MikroTik)", "Linux Administration (Ubuntu, Kali, CentOS)", "Agile Methodologies (Scrum, Six Sigma)", "BPMN, Gantt, SWOT Diagrams", "ISO 27001 Compliance", "SIEM - IDS/IPS (Elastic, Suricata)", "Employee and Client Training", "Structured Cabling and Telecommunications Knowledge"]
         }
     ],
   "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker",
-      "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "projects": [
         {
             "name": "Design of an Automatic System for the Detection and Identification of Patients Attending Therapy at Biomedical Group, San Fernando Branch, in the City of Cali.",
             "summary": "Outlines the stages involved in designing a custom patient detection and identification system, detailing from system characterization to the development of a functional demo. A solution is presented based on a local network comprising five WI-FI technology routers, with the measurement of their respective RSSI through Android devices. The solution is oriented towards indoor location. Additionally, a virtual machine is implemented to act as the server for processing information. Within the server processing stage, a neural network implemented using Tensor Flow in Python is hosted. This neural network is responsible for generating location predictions and facilitating interconnection with other processing stages of the system. The presented system's functionalities include patient registration through interaction with an Android application that communicates with the server. Various processing stages are carried out through PHP files, which handle requests to the MongoDB-implemented database. The system encompasses automatic detection and identification of patients upon their arrival at the clinic, prediction, and automatic recording of their movements, alongside the calculation of durations in each clinic area until their departure. Recorded data can be visualized through a Power BI-implemented dashboard.",
-            "highlights": [
-                "Digital Detection",
-                "Indoor Location",
-                "Digital Identification",
-                "Neural Network",
-                "Router",
-                "Wi-Fi",
-                "Virtual Machine",
-                "Tensor Flow",
-                "PHP",
-                "Python",
-                "Apache",
-                "Android App",
-                "Kotlin",
-                "RSSI"
-            ],
+            "highlights": ["Digital Detection", "Indoor Location", "Digital Identification", "Neural Network", "Router", "Wi-Fi", "Virtual Machine", "Tensor Flow", "PHP", "Python", "Apache", "Android App", "Kotlin", "RSSI"],
             "startDate": "2022",
             "endDate": "2023",
             "url": "https://red.uao.edu.co/entities/publication/1d6591cc-af84-4a0f-b7d9-d2cdd97d50d4"
