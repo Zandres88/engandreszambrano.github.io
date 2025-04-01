@@ -1,27 +1,27 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Andrés Zambrano",
+    "label": "Electronics and Telecommunications Engineer - Security Information Specialist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zandres_88@hotmail.com",
+    "phone": "+57(602) 317-5335503",
+    "url": "https://zandres88.github.io/engandreszambrano.github.io/",
+    "summary": "Extensive experience in team leadership, operational and logistical process management, and technical support in the financial and telecommunications sectors. B2 level English. Focused on coordination, supervision, diagnostics, maintenance, and information security under agile methodologies. Experience in cybersecurity compliance, vendor management, and service indicator improvement.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "#######",
+      "postalCode": "####",
+      "city": "Cali",
+      "countryCode": "CO",
+      "region": "Valle del Cauca"
+         },       
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "engandreszambrano",
+                "url": "https://www.linkedin.com/in/engandreszambrano"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
