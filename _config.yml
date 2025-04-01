@@ -9,11 +9,10 @@ last_name: Zambrano
 contact_note: >
   Whether it's to discuss projects, ideas, or simply to say hello, these are the best ways to get in touch with me. You can send me a message directly via LinkedIn, Mail or WhatsApp, and I will be happy to respond.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to my professional website. Explore my work, projects, and achievements, and feel free to connect with me for collaborations or opportunities.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Engineer, Cibersecurity, IT Services, Remote, IT Security, Technical Support, Networking, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
