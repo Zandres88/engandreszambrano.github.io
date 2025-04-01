@@ -145,6 +145,13 @@ ninja.data = [{
           window.open("mailto:%7A%61%6E%64%72%65%73_%38%38@%68%6F%74%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/www.linkedin.com/in/engandreszambrano", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
