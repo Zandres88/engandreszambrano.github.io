@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Strong experience in team leadership, operational and logistical process management, and technical support in the financial and telecommunications sectors. Focused on coordination, supervision, diagnostics, maintenance, and information security under agile methodologies. Experience in cybersecurity compliance, vendor management, and service indicator improvement.
+Extensive experience in team leadership, operational and logistical process management, and technical support in the financial and telecommunications sectors. Focused on coordination, supervision, diagnostics, maintenance, and information security under agile methodologies. Experience in cybersecurity compliance, vendor management, and service indicator improvement.
