@@ -24,7 +24,7 @@
     {
       "name": "Ministry of Information and Communications Technology MinTIC",
       "position": "Rural Telecommunications Engineer",
-      "url": "https://mintic.gov.co",
+      "url": "https://www.mintic.gov.co",
       "startDate": "2024-06",
       "endDate": "2024-12",
       "summary": "Led feasibility studies on electrical and telecommunications infrastructure in rural communities. Achieved 90% coverage of assigned communities, meeting connectivity goals. Prepared technical reports and feasibility analyses for the Ministry. Conducted training and awareness programs on technology and connectivity. Utilized geolocation tools and generated .KML files for network design.",
@@ -33,7 +33,7 @@
     {
       "name": "A Toda Hora S.A - AVC",
       "position": "Operations and Tech Support Technician",
-      "url": "https://avalvc.com.co/",
+      "url": "https://www.avalvc.com.co/",
       "startDate": "2015-10",
       "endDate": "2023-11",
       "summary": "Coordinated and audited telecom and physical security infrastructure providers. Installed and configured CISCO routers, RAVEN Sierra, and VSAT Cable-modems. Diagnosed and maintained ATM hardware (Hyosung, Diebold, Wincor). Implemented and supported CCTV systems with EUDOX DVRs and IDIS NVRs. Achieved 96% compliance with SLAs and outstanding evaluation scores.",
@@ -42,7 +42,7 @@
      {
        "name": "A Toda Hora S.A - AVC",
        "position": "Regional Coordinator - Interim",
-       "url": "https://avalvc.com.co/",
+       "url": "https://www.avalvc.com.co/",
        "startDate": "2015-12",
        "endDate": "2017-10",
        "summary": "Supervised preventive and corrective maintenance of ATMs. Managed a regional team of 10 members, ensuring KPI and SLA compliance. Led ATM restoration in conflict-affected areas of Buenaventura. Controlled financial and logistical resources. Received excellent feedback from national managers.",
@@ -51,7 +51,7 @@
      {
        "name": "Aladdin Hotel and Casinos S.A.S",
        "position": "Technical Support Technician",
-       "url": "https://vivealaddin.com/",
+       "url": "https://www.vivealaddin.com/",
        "startDate": "2015-05",
        "endDate": "2015-10",
        "summary": "Diagnosed, installed, and repaired electronic entertainment and self-service systems. Provided second- and third-line repair support, including part replacements for bill validators, coin acceptors, thermal printers, LCD monitors, CRT monitors, specialized boards, electromechanical devices, mechatronic devices, animatronic devices, luminous devices, underfloor and overhead electrical wiring, bill and coin counters, keyboards, and joysticks. Achieved outstanding performance in repairs within the first month, earning access to casinos and workshops simultaneously. Assigned as an on-site electronic support technician in a casino, managing inventory, stock control, quality control, and on-site testing. Used manual tools, electronic measuring instruments, and interpreted electrical and electronic schematics.",
@@ -59,8 +59,8 @@
      },
      {
        "name": "Credibanco",
-       "position": "Pay Devices Access Media Technician",
-       "url": "https://credibanco.com/",
+       "position": "Payment Devices and Media Access Technician",
+       "url": "https://www.credibanco.com/",
        "startDate": "2012-08",
        "endDate": "2014-12",
        "summary": "Led payment device reprogramming with an 8-person team. Trained VIP merchants (Falabella, La 14, Cencosud, Price Smart) on payment devices. Provided first- and second-line technical support for POS terminals (Verifone, Spectra, Ingenico). Designed a technical support and service manual. Managed encryption keys for POS terminals (3 DES - Master Key).",
@@ -71,7 +71,7 @@
         {
             "organization": "Network of Experts - CompTIA",
             "position": "Content Contributor",
-            "url": "https://comptia.org/content/network-of-experts",
+            "url": "https://www.comptia.org/content/network-of-experts",
             "startDate": "May 2024",
             "endDate": "Ongoing",
             "summary": "Sharing knowledge, expertise and experience the challenges faced, what I like about my job and what it’s like to work in tech.",
@@ -84,7 +84,7 @@
         {
             "institution": "Universidad Autónoma de Occidente",
             "location": "Cali, Colombia",
-            "url": "https://uao.edu.co/",
+            "url": "https://www.uao.edu.co/",
             "area": "Specialization in Information Security",
             "studyType": "Postgraduate-education - Specialist",
             "startDate": "2024-01",
@@ -97,7 +97,7 @@
         {
             "institution": "Harvard University (CS50)",
             "location": "Online",
-            "url": "https://certificates.cs50.io/12b6c304-de54-4e0b-b22c-68d52dda91c5.pdf?size=letter",
+            "url": "https://www.certificates.cs50.io/12b6c304-de54-4e0b-b22c-68d52dda91c5.pdf?size=letter",
             "area": "Introduction to Cybersecurity",
             "studyType": "Course - Technician",
             "startDate": "2024",
@@ -110,7 +110,7 @@
         {
             "institution": "Universidad Autónoma de Occidente",
             "location": "Cali - Colombia",
-            "url": "https://uao.edu.co",
+            "url": "https://www.uao.edu.co",
             "area": "Electronics and Telecommunications Engineering",
             "studyType": "Bachelor Degree",
             "startDate": "2004",
@@ -123,7 +123,7 @@
         {
             "institution": "Universitat Politècnica de Valencia",
             "location": "Online",
-            "url": "https://goo.su/6HMEaT",
+            "url": "https://www.goo.su/6HMEaT",
             "area": "ICT Fundamentals for Business Professionals: Cybersecurity and Social Implications",
             "studyType": "Course - Technician",
             "startDate": "2019",
