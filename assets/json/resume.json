@@ -8,20 +8,20 @@
     "url": "https://zandres88.github.io/engandreszambrano.github.io/",
     "summary": "Extensive experience in team leadership, operational and logistical process management, and technical support in the financial and telecommunications sectors. B2 level English. Focused on coordination, supervision, diagnostics, maintenance, and information security under agile methodologies. Experience in cybersecurity compliance, vendor management, and service indicator improvement.",
     "location": {
-      "address": "#######",
-      "postalCode": "####",
-      "city": "Cali",
-      "countryCode": "CO",
-      "region": "Valle del Cauca"
-         },       
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "engandreszambrano",
-                "url": "https://www.linkedin.com/in/engandreszambrano"
-            }
-        ]
-    },
+    "address": "#######",
+    "postalCode": "####",
+    "city": "Cali",
+    "countryCode": "CO",
+    "region": "Valle del Cauca"
+    },       
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "engandreszambrano",
+        "url": "https://www.linkedin.com/in/engandreszambrano"
+      }
+    ] 
+  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
