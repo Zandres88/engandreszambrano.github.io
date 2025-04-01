@@ -184,7 +184,7 @@
         {
             "institution": "Harvard University (CS50)",
             "location": "Online",
-            "url": "https://www.certificates.cs50.io/12b6c304-de54-4e0b-b22c-68d52dda91c5.pdf?size=letter",
+            "url": "https://certificates.cs50.io/12b6c304-de54-4e0b-b22c-68d52dda91c5.pdf?size=letter",
             "area": "Introduction to Cybersecurity",
             "studyType": "Course - Technician",
             "startDate": "2024",
@@ -210,7 +210,7 @@
         {
             "institution": "Universitat Politècnica de Valencia",
             "location": "Online",
-            "url": "https://www.goo.su/6HMEaT",
+            "url": "https://goo.su/6HMEaT",
             "area": "ICT Fundamentals for Business Professionals: Cybersecurity and Social Implications",
             "studyType": "Course - Technician",
             "startDate": "2019",
@@ -226,56 +226,56 @@
             "name": "Lean Six Sigma White Belt Certification",
             "date": "2024",
             "issuer": "Certiprof",
-            "url": "https://certiprof.com/",
+            "url": "https://www.certiprof.com/",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Scrum Foundation",
             "date": "2024",
             "issuer": "Certiprof",
-            "url": "https://certiprof.com",
+            "url": "https://www.certiprof.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Business Intelligence Foundation Professional Certification BIFPC™",
             "date": "2024",
             "issuer": "Certiprof",
-            "url": "https://certiprof.com",
+            "url": "https://www.certiprof.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Cybersecurity Awareness Professional Certification CAPC",
             "date": "2024",
             "issuer": "Certiprof",
-            "url": "https://certiprof.com",
+            "url": "https://www.certiprof.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Remote Work",
             "date": "2024",
             "issuer": "Certiprof",
-            "url": "https://certiprof.com",
+            "url": "https://www.certiprof.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "International Cybersecurity Forum in AI Times",
             "date": "2024",
             "issuer": "Universidad Autónoma de Occidente",
-            "url": "https://uao.edu.co",
+            "url": "https://www.uao.edu.co",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "ISO 27001 Workshop",
             "date": "2024",
             "issuer": "Hacker Mentor",
-            "url": "https://hacker-mentor.com",
+            "url": "https://www.hacker-mentor.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Ethical Hacking",
             "date": "2024",
             "issuer": "Hacker Mentor",
-            "url": "https://hacker-mentor.com",
+            "url": "https://www.hacker-mentor.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
@@ -289,28 +289,28 @@
             "name": "Server Administration Technician",
             "date": "2019",
             "issuer": "Edutin Academy",
-            "url": "https://edutin.com",
+            "url": "https://www.edutin.com",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Networks and Transmission Media",
             "date": "2015",
             "issuer": "National Learning Service SENA",
-            "url": "https://sena.edu.co",
+            "url": "https://www.sena.edu.co",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Web Design and Strategy Implementation",
             "date": "2011",
             "issuer": "National Learning Service SENA",
-            "url": "https://sena.edu.co",
+            "url": "https://www.sena.edu.co",
             "icon": "fa-solid fa-clipboard-check"
         },
         {
             "name": "Operation and Installation of Rotating Machines",
             "date": "2011",
             "issuer": "National Learning Service SENA",
-            "url": "https://sena.edu.co",
+            "url": "https://www.sena.edu.co",
             "icon": "fa-solid fa-clipboard-check"
         }
     ],
