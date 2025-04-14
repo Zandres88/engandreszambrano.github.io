@@ -1,24 +1,15 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Man-in-the-Middle (MitM) Attack Simulation and Defense Strategies
+description: This project focuses on simulating a Man-in-the-Middle (MitM) attack within a network environment. It includes the execution of ARP spoofing to intercept traffic between a victim and a gateway, followed by methods to protect Windows and Linux systems from such attacks.
+img: assets/img/img_title5.png
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The project aims to simulate and analyze a Man-in-the-Middle (MitM) attack on a network to demonstrate its impact and potential security threats. The simulation involves the use of ARP spoofing to manipulate the Address Resolution Protocol (ARP) tables and redirect traffic from the victim machine to the attacker's machine. The attack begins with network configurations, followed by the installation of tools such as "dsniff" and "arpspoof" for traffic interception. Once the attack is initiated, network traffic is captured, including sensitive data like login credentials, using tools like Wireshark.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In addition to demonstrating the attack, the project also explores mitigation strategies, such as configuring static ARP entries and implementing network monitoring tools to detect and prevent ARP spoofing. These defense measures are tested on both Windows and Linux machines. The project provides valuable insights into how these attacks work, their potential consequences, and effective countermeasures to protect networked systems from such vulnerabilities.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
