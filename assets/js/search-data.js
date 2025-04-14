@@ -80,9 +80,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/6_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-dns-script-with-ai-dns-auditing-via-prompt-engineering-and-shodan-api",
+          title: 'DNS Script with AI DNS Auditing via Prompt Engineering and Shodan API',
+          description: "A Python-based DNS auditing tool developed using prompt engineering with ChatGPT and the Shodan API. Designed for academic purposes, it runs in a secure virtual environment and demonstrates the use of AI in cybersecurity automation.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/7_project/";
             },},{id: "projects-project-8",
