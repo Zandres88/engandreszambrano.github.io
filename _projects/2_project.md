@@ -1,18 +1,18 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Elastic SIEM Lab: A Practical Guide to Security Monitoring with the Elastic Stack and Kibana
+description: A step-by-step lab for deploying Elastic SIEM using Kali Linux and Windows clients. Includes log integration, detection rules, and real-time dashboards with Kibana for security monitoring and analysis.
+img: assets/img/img_title2.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project provides a step-by-step guide to deploying a fully functional Security Information and Event Management (SIEM) system using Elastic SIEM. Built in a virtualized environment, the setup includes a Kali Linux host running the Elastic Stack and multiple Windows clients acting as data sources through installed agents.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The guide covers technical requirements, the installation of Elastic components, and the integration of system and network logs. Special emphasis is placed on the use of Kibana to configure interactive dashboards for visualizing log data, monitoring system behavior, and detecting anomalies in real time.
+
+Designed for academic use and hands-on learning, this lab offers a realistic approach to understanding how Elastic SIEM supports centralized log management, threat detection, and incident response. The implementation also explores the benefits and challenges of deploying such a system in a secure, isolated virtual environment.
 
     ---
     layout: page
