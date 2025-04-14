@@ -3,7 +3,6 @@ layout: page
 title: Black Box Audit Report - Vulnerability Assessment with Metasploit, Nessus, and PwnDoc
 description: A professional black box audit conducted on a virtual machine using tools like Metasploit, Nmap, and Nessus. The final report was structured with PwnDoc and includes technical findings, CVE exploitation, and step-by-step documentation.
 img: assets/img/img_title3.jpg
-redirect: https://unsplash.com
 importance: 3
 category: academic
 ---
