@@ -65,9 +65,9 @@ ninja.data = [{
           description: "A professional black box audit conducted on a virtual machine using tools like Metasploit, Nmap, and Nessus. The final report was structured with PwnDoc and includes technical findings, CVE exploitation, and step-by-step documentation.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/4_project/";
             },},{id: "projects-project-5",
