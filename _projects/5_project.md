@@ -4,7 +4,7 @@ title: Man-in-the-Middle (MitM) Attack Simulation and Defense Strategies
 description: This project focuses on simulating a Man-in-the-Middle (MitM) attack within a network environment. It includes the execution of ARP spoofing to intercept traffic between a victim and a gateway, followed by methods to protect Windows and Linux systems from such attacks.
 img: assets/img/img_title5.png
 importance: 5
-category: work
+category: academic
 ---
 
 The project aims to simulate and analyze a Man-in-the-Middle (MitM) attack on a network to demonstrate its impact and potential security threats. The simulation involves the use of ARP spoofing to manipulate the Address Resolution Protocol (ARP) tables and redirect traffic from the victim machine to the attacker's machine. The attack begins with network configurations, followed by the installation of tools such as "dsniff" and "arpspoof" for traffic interception. Once the attack is initiated, network traffic is captured, including sensitive data like login credentials, using tools like Wireshark.
