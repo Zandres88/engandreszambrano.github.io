@@ -8,7 +8,7 @@ To ensure a secure testing environment, the tool was deployed within a virtual m
 Developed for academic purposes, this project highlights the potential of large language models in automating cybersecurity tasks, emphasizing how effective prompt engineering can enhance AI-assisted development.
 img: assets/img/4.jpg
 importance: 1
-category: Academic
+category: work
 related_publications: true
 ---
 
