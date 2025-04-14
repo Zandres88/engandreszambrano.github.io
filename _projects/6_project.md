@@ -1,24 +1,25 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: IDS/IPS Implementation Using PfSense and Suricata
+description: This project outlines the installation, configuration, and testing of an IDS/IPS/NSM solution using PfSense for perimeter security and Suricata for intrusion detection, prevention, and network security monitoring.
+img: assets/img/img_title6.png
+importance: 7
+category: academic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project demonstrates the process of setting up an Intrusion Detection System (IDS), Intrusion Prevention System (IPS), and Network Security Monitoring (NSM) solution using PfSense and Suricata. PfSense is used to establish a perimeter firewall, while Suricata is implemented for real-time traffic monitoring, intrusion detection, and prevention.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The steps include:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Environment Setup: Installation of PfSense and Suricata, alongside other necessary tools like Snort and MaxMind for enhanced security.
+
+Firewall Configuration: Establishing network interfaces, configuring firewall rules, and setting up security protocols.
+
+Intrusion Detection and Prevention: Configuring Suricata for network traffic inspection and threat detection.
+
+Testing and Validation: Evaluating the firewall, IDS/IPS functionality, and testing alerts, blocking capabilities, and network security with various machines.
+
+The project concludes with comprehensive testing across different network environments, ensuring that the security solutions are properly tuned and can handle real-world threats efficiently.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
