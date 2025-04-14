@@ -60,9 +60,9 @@ ninja.data = [{
           description: "A step-by-step lab for deploying Elastic SIEM using Kali Linux and Windows clients. Includes log integration, detection rules, and real-time dashboards with Kibana for security monitoring and analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/2_project/";
-            },},{id: "projects-black-box-audit-report-vulnerability-assessment-with-metasploit-nessus-and-pwndoc",
-          title: 'Black Box Audit Report - Vulnerability Assessment with Metasploit, Nessus, and PwnDoc',
-          description: "A professional black box audit conducted on a virtual machine using tools like Metasploit, Nmap, and Nessus. The final report was structured with PwnDoc and includes technical findings, CVE exploitation, and step-by-step documentation.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/3_project/";
             },},{id: "projects-project-4",
