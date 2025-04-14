@@ -1,23 +1,18 @@
 ---
 layout: page
 title: DNS Script with AI: DNS Auditing via Prompt Engineering and Shodan API
-description: |
-  This project showcases the development of a Python-based application designed to perform DNS audits in two modes: basic and advanced. The script leverages the Shodan API to retrieve information about publicly exposed devices and services. Its implementation was guided through prompt engineering techniques using ChatGPT, allowing for the iterative and structured development of functionalities based on carefully crafted prompts.
-
-  To ensure a secure testing environment, the tool was deployed within a virtual machine configured with an internal network and a firewall, while the host machine was connected through a VPN to mask its IP address. The project incorporates cybersecurity best practices and includes manual verification of the AI-generated outputs to ensure accuracy and minimize potential vulnerabilities.
-
-  Developed for academic purposes, this project highlights the potential of large language models in automating cybersecurity tasks, emphasizing how effective prompt engineering can enhance AI-assisted development.
+description:A Python-based DNS auditing tool developed using prompt engineering with ChatGPT and the Shodan API. Designed for academic purposes, it runs in a secure virtual environment and demonstrates the use of AI in cybersecurity automation.
 img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project showcases the development of a Python-based application designed to perform DNS audits in two modes: basic and advanced. The script leverages the Shodan API to retrieve information about publicly exposed devices and services. Its implementation was guided through prompt engineering techniques using ChatGPT, allowing for the iterative and structured development of functionalities based on carefully crafted prompts.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To ensure a secure testing environment, the tool was deployed within a virtual machine configured with an internal network and a firewall, while the host machine was connected through a VPN to mask its IP address. The project incorporates cybersecurity best practices and includes manual verification of the AI-generated outputs to ensure accuracy and minimize potential vulnerabilities.
+
+Developed for academic purposes, this project highlights the potential of large language models in automating cybersecurity tasks, emphasizing how effective prompt engineering can enhance AI-assisted development.
 
     ---
     layout: page
