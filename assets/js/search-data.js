@@ -70,9 +70,9 @@ ninja.data = [{
           description: "This project explores the use of cryptographic algorithms, focusing on AES encryption, TLS certificate verification, and the vulnerabilities that arise from insecure data transmission. It includes a step-by-step guide on AES encryption, certification checks, and web security analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-man-in-the-middle-mitm-attack-simulation-and-defense-strategies",
+          title: 'Man-in-the-Middle (MitM) Attack Simulation and Defense Strategies',
+          description: "This project focuses on simulating a Man-in-the-Middle (MitM) attack within a network environment. It includes the execution of ARP spoofing to intercept traffic between a victim and a gateway, followed by methods to protect Windows and Linux systems from such attacks.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/5_project/";
             },},{id: "projects-project-6",
