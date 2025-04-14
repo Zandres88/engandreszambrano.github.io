@@ -1,24 +1,45 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Cryptography and Security: AES, TLS Certificates, and Vulnerability Assessment
+description: This project explores the use of cryptographic algorithms, focusing on AES encryption, TLS certificate verification, and the vulnerabilities that arise from insecure data transmission. It includes a step-by-step guide on AES encryption, certification checks, and web security analysis.
+img:assets/img/img_title4.png
+importance: 4
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project provides a detailed walkthrough of various cryptographic processes and security assessments in a real-world context. The focus is on AES encryption, TLS certificate verification, and web vulnerabilities.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Key topics covered in this project include:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Algorithms Available: Using OpenSSL, the available encryption algorithms are reviewed, including the AES cipher, and commands for verifying which algorithms are active.
+
+Certificate Verification: Using OpenSSL commands, we verify the TLS certificates used by a live website, detailing key information such as:
+
+Issuer (e.g., DigiCert)
+
+Encryption algorithms (e.g., SHA256, RSA)
+
+TLS protocol versions (e.g., TLS 1.3)
+
+Certificate expiration and public key information.
+
+AES Encryption and Decryption: The project demonstrates how AES-256-CBC encryption works, explaining the process of:
+
+Generating encryption keys
+
+Creating an initialization vector (IV) for enhanced randomness
+
+Encrypting plaintext data using the CBC mode (Cipher Block Chaining)
+
+Decrypting the ciphertext back into its original form.
+
+The process of encryption is explained step by step, and the project explores security concerns associated with AES encryption, such as vulnerabilities in the CBC mode and padding oracle attacks. The performance of AES encryption is also evaluated, measuring the time it takes to encrypt and decrypt files.
+
+Linux User Password Hashing: The project touches on how Linux stores user passwords securely using hash functions, providing insights into the location and format of password hashes in the /etc/passwd and /etc/shadow files.
+
+Web Security Vulnerabilities: The project investigates an insecure webpage (HTTP without TLS) and captures unencrypted credentials during a login attempt using Wireshark, showcasing the risks of not using secure protocols.
+
+This project serves as a hands-on guide for understanding encryption techniques, verifying certificates, and identifying common vulnerabilities in cryptographic systems. It emphasizes the importance of secure data transmission and robust password management in maintaining cybersecurity.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
