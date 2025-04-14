@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elastic SIEM Lab: A Practical Guide to Security Monitoring with the Elastic Stack and Kibana
+title: Elastic SIEM Lab - A Practical Guide to Security Monitoring with the Elastic Stack and Kibana
 description: A step-by-step lab for deploying Elastic SIEM using Kali Linux and Windows clients. Includes log integration, detection rules, and real-time dashboards with Kibana for security monitoring and analysis.
 img: assets/img/img_title2.jpg
 importance: 2
