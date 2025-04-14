@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 8
-category: work
+title:  SSH and Telnet Audit Application Using Shodan API
+description: A Python application for auditing SSH and Telnet services, leveraging the Shodan API and prompt engineering with AI. The application scans the network and exports findings in CSV format for further analysis.
+img: assets/img/img_title8.png
+importance: 7
+category: academic
 giscus_comments: academic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project involves the development of a Python application designed to perform SSH and Telnet service audits using the Shodan API. The application is created with prompt engineering and AI, focusing on scanning services to identify vulnerabilities. The environment for this audit is a virtual machine with an internal network protected by a firewall to prevent unauthorized traffic, and a VPN service is deployed on the host machine to obscure the IP address. After completing the scan, the application exports the findings into a CSV file, providing a comprehensive report for further review. This audit is carried out in a controlled, academic environment, ensuring security measures are in place to prevent any impact on the virtual environment.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
