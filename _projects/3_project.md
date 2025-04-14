@@ -5,7 +5,7 @@ description: A professional black box audit conducted on a virtual machine using
 img: assets/img/img_title3.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: academic
 ---
 
 This project presents a complete black box vulnerability assessment conducted on a virtual machine, simulating a real-world offensive security audit. The audit was performed using Kali Linux and a range of industry-standard tools, including Metasploit, Nmap, Gobuster, Nessus, and others.
