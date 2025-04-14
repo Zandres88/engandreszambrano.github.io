@@ -2,9 +2,7 @@
 layout: page
 title: DNS Script with AI: DNS Auditing via Prompt Engineering and Shodan API
 description: This project showcases the development of a Python-based application designed to perform DNS audits in two modes: basic and advanced. The script leverages the Shodan API to retrieve information about publicly exposed devices and services. Its implementation was guided through prompt engineering techniques using ChatGPT, allowing for the iterative and structured development of functionalities based on carefully crafted prompts.
-
 To ensure a secure testing environment, the tool was deployed within a virtual machine configured with an internal network and a firewall, while the host machine was connected through a VPN to mask its IP address. The project incorporates cybersecurity best practices and includes manual verification of the AI-generated outputs to ensure accuracy and minimize potential vulnerabilities.
-
 Developed for academic purposes, this project highlights the potential of large language models in automating cybersecurity tasks, emphasizing how effective prompt engineering can enhance AI-assisted development.
 img: assets/img/4.jpg
 importance: 1
