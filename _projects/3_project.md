@@ -1,25 +1,30 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Black Box Audit Report: Vulnerability Assessment with Metasploit, Nessus, and PwnDoc
+description: A professional black box audit conducted on a virtual machine using tools like Metasploit, Nmap, and Nessus. The final report was structured with PwnDoc and includes technical findings, CVE exploitation, and step-by-step documentation.
+img: assets/img/img_title3.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project presents a complete black box vulnerability assessment conducted on a virtual machine, simulating a real-world offensive security audit. The audit was performed using Kali Linux and a range of industry-standard tools, including Metasploit, Nmap, Gobuster, Nessus, and others.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The findings were compiled into a professional audit report using PwnDoc, which ensures a structured format with key sections such as execution timeline, executive summary, vulnerability overview, and detailed technical analysis. The report covers several critical and high-severity vulnerabilities, including:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+CVE-2023-26048 (Jetty DDoS vulnerability)
+
+CVE-2024-23897 (Arbitrary file read in Jenkins)
+
+CVE-2024-40725 (Source code disclosure)
+
+Privilege escalation via GNU Screen 4.5.0
+
+Weak/default credentials and web-based injection attempts
+
+Each vulnerability is documented with exploitation steps, screenshots, and analysis. The project also includes a step-by-step manual outlining the audit methodology and the use of each tool throughout the process.
+
+Designed for both educational and professional development purposes, this project demonstrates how to conduct and document a complete security audit following industry standards.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
