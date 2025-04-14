@@ -75,9 +75,9 @@ ninja.data = [{
           description: "This project focuses on simulating a Man-in-the-Middle (MitM) attack within a network environment. It includes the execution of ARP spoofing to intercept traffic between a victim and a gateway, followed by methods to protect Windows and Linux systems from such attacks.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-ids-ips-implementation-using-pfsense-and-suricata",
+          title: 'IDS/IPS Implementation Using PfSense and Suricata',
+          description: "This project outlines the installation, configuration, and testing of an IDS/IPS/NSM solution using PfSense for perimeter security and Suricata for intrusion detection, prevention, and network security monitoring.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/6_project/";
             },},{id: "projects-dns-script-with-ai-dns-auditing-via-prompt-engineering-and-shodan-api",
