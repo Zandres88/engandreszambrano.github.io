@@ -8,45 +8,88 @@ category: academic
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project involves an in-depth analysis and presentation of key information security standards and frameworks that are commonly applied within business environments to ensure effective cybersecurity practices and risk management. It provides a structured overview of international and national models that support organizations in developing, maintaining, and continuously improving their security strategies.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Among the frameworks and standards explored are:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+COBIT, focused on IT governance and management;
+
+The ISO/IEC 27000 series, including ISO 27001 (Information Security Management Systems), ISO 27002 (Security Controls), ISO 27005 (Risk Management), ISO 27032 (Cybersecurity), and ISO 27035 (Incident Response);
+
+ISO 31000, which provides general principles for risk management;
+
+The NIST SP 800 series and the NIST Cybersecurity Framework (CSF) for security controls and risk mitigation strategies;
+
+OWASP and OWISAM, offering methodologies and best practices for web application security and secure administration;
+
+The Modelo de Seguridad y Privacidad de la Información (MSPI), a comprehensive model focused on integrating privacy and security principles into organizational information management;
+
+National cybersecurity references such as INCIBE (Spain’s National Cybersecurity Institute) and CN-CERT (China’s National Computer Network Emergency Response Technical Team).
+
+The project emphasizes the practical application of these standards, comparing their objectives, scope, and implementation benefits. It serves as a resource for professionals seeking to align their organizations with industry best practices, reduce cyber risk exposure, and establish a resilient security posture rooted in globally recognized frameworks.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nistp11.png" title="NIST CSF" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cobitp12.png" title="COBIT" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cis cscp13.png" title="CIS CSC" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    These visual summaries provide a comparative look at three of the most widely adopted cybersecurity frameworks: NIST Cybersecurity Framework (CSF), COBIT, and the Center for Internet       Security Critical Security Controls (CIS CSC). Each of them offers unique strengths and areas of focus that support organizations in shaping their cybersecurity strategies.
+
+    NIST CSF emphasizes five core functions—Identify, Protect, Detect, Respond, and Recover—designed to manage and reduce cybersecurity risk. It is highly adaptable and suitable for            organizations of all sizes and sectors.
+
+    COBIT focuses on governance and management of enterprise IT. It ensures that IT is aligned with business goals while maintaining compliance, risk management, and performance                measurement.
+
+    CIS CSC offers a prioritized set of actions that provide specific and actionable ways to stop the most pervasive and dangerous attacks. Its control-based approach is especially             effective for technical teams looking to implement practical security measures quickly.
+
+    By understanding the core characteristics of each framework, organizations can better evaluate which model—or combination of models—best suits their operational context, compliance         requirements, and risk profile.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nist sp800p14.png" title="NIST SP800" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image outlines the five core characteristics of NIST SP 800-53A Rev. 4, which provides guidelines for assessing the effectiveness of security controls in federal information           systems and organizations. These principles support a structured, repeatable, and evidence-based approach to evaluating system security and compliance within risk management frameworks.
+</div>
+
+In this section, we explore the key characteristics of internationally recognized standards that serve as the foundation for robust information security management across organizations. These standards—particularly those in the ISO/IEC 27000 series—establish best practices for risk management, cybersecurity governance, incident response, and operational resilience. Each framework addresses a specific aspect of information security, offering guidance that is both adaptable and scalable for businesses of all sizes.
+
+By understanding the distinct purpose and focus of standards such as ISO 27001, 27002, 27005, 27032, 27035, and ISO 31000, professionals can effectively align organizational practices with global expectations, enhance their security posture, and build a culture of continuous improvement in cybersecurity and risk management.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 27001p16.png" title="ISO 27001" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 27005p17.png" title="ISO 27005" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 27002p18.png" title="ISO 27002" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 31000p19.png" title="ISO 31000" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 27032p110.png" title="ISO 27032" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 27035p111.png" title="ISO 27035" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/iso 22302p112.png" title="ISO 22301" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
