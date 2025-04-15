@@ -75,7 +75,7 @@ In this section, we explore the key characteristics of internationally recognize
 
 By understanding the distinct purpose and focus of standards such as ISO 27001, 27002, 27005, 27032, 27035, and ISO 31000, professionals can effectively align organizational practices with global expectations, enhance their security posture, and build a culture of continuous improvement in cybersecurity and risk management.
 
-<div class="row">
+<div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
         <a href="{{ site.baseurl }}/assets/img/iso 27001p16.png" data-lightbox="iso-standards" data-title="ISO 27001">
             <img src="{{ site.baseurl }}/assets/img/iso 27001p16.png" alt="ISO 27001" class="img-fluid rounded z-depth-1" />
@@ -87,7 +87,7 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
         </a>
     </div>
 </div>
-<div class="row">
+<div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
         <a href="{{ site.baseurl }}/assets/img/iso 27002p18.png" data-lightbox="iso-standards" data-title="ISO 27002">
             <img src="{{ site.baseurl }}/assets/img/iso 27002p18.png" alt="ISO 27002" class="img-fluid rounded z-depth-1" />
@@ -99,7 +99,7 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
         </a>
     </div>
 </div>
-<div class="row">
+<div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
         <a href="{{ site.baseurl }}/assets/img/iso 27032p110.png" data-lightbox="iso-standards" data-title="ISO 27032">
             <img src="{{ site.baseurl }}/assets/img/iso 27032p110.png" alt="ISO 27032" class="img-fluid rounded z-depth-1" />
@@ -112,7 +112,7 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
     </div>
 </div>
 
-<div class="row">
+<div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
         <a href="{{ site.baseurl }}/assets/img/iso 27032p110.png" data-lightbox="iso-standards" data-title="ISO 27032">
             {% include figure.liquid loading="eager" path="assets/img/iso 27032p110.png" title="ISO 27032" class="img-fluid rounded z-depth-1" %}
