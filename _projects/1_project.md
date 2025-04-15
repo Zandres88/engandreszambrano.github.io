@@ -43,7 +43,7 @@ The project emphasizes the practical application of these standards, comparing t
   </div>
   <div class="col-sm mt-3 mt-md-0">
     <a href="{{ site.baseurl }}/assets/img/cis_cscp13.png" data-lightbox="standards" data-title="CIS CSC">
-      <img src="{{ site.baseurl }}/assets/img/cis cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
+      <img src="{{ site.baseurl }}/assets/img/cis_cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
 </div>
@@ -131,19 +131,48 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<strong>Key Characteristics of INCIBE, MSPI, and CN-CERT</strong>
+
+<div class="row text-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="{{ site.baseurl }}/assets/img/incibep114.png" data-lightbox="standards" data-title="INCIBE">
+      <img src="{{ site.baseurl }}/assets/img/incibep114.png" alt="INCIBE" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="{{ site.baseurl }}/assets/img/mspip115.png" data-lightbox="standards" data-title="MSPI">
+      <img src="{{ site.baseurl }}/assets/img/mspip115.png" alt="MSPI" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="{{ site.baseurl }}/assets/img/cn_certp16.png" data-lightbox="standards" data-title="CN_Cert">
+      <img src="{{ site.baseurl }}/assets/img/cn_certp16.png" alt="CN_Cert" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+   Visual summary of the five key characteristics of INCIBE, MSPI, and CN-CERT, highlighting their main roles in Spain’s national cybersecurity strategy.
 </div>
 
-The code is simple.
+<strong>Key Controls from OWASP and OWISAM</strong>
+
+<div class="row text-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="{{ site.baseurl }}/assets/img/owaspp118.png" data-lightbox="standards" data-title="OWASP">
+      <img src="{{ site.baseurl }}/assets/img/owaspp118.png" alt="OWASP" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="{{ site.baseurl }}/assets/img/owisamp119.png" data-lightbox="standards" data-title="OWISAM">
+      <img src="{{ site.baseurl }}/assets/img/owisamp119.png" alt="OWISAM" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+</div>
+<div class="caption">
+   Overview of the main security controls defined by OWASP and OWISAM, focusing on application and information security.
+</div>
+
+<!--The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
@@ -159,6 +188,6 @@ Here's the code for the last row of images above:
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+```-->
 
 {% endraw %}
