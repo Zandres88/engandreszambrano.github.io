@@ -33,17 +33,17 @@ The project emphasizes the practical application of these standards, comparing t
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
     <a href="{{ site.baseurl }}/assets/img/nistp11.png" data-lightbox="standards1" data-title="NIST CSF">
-      <img src="{{ site.baseurl }}/assets/img/nistp11.png" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
+      <img src="/assets/img/nistp11.png" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
     <a href="{{ site.baseurl }}/assets/img/cobitp12.png" data-lightbox="standards1" data-title="COBIT">
-      <img src="{{ site.baseurl }}/assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
+      <img src="/assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
     <a href="{{ site.baseurl }}/assets/img/cis_cscp13.png" data-lightbox="standards1" data-title="CIS CSC">
-      <img src="{{ site.baseurl }}/assets/img/cis_cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
+      <img src="/assets/img/cis_cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
 </div>
@@ -159,7 +159,7 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
    Overview of the main security controls defined by OWASP and OWISAM, focusing on application and information security.
 </div>
 
-<!--The code is simple.
+The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
@@ -175,6 +175,6 @@ Here's the code for the last row of images above:
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```-->
+```
 
 {% endraw %}
