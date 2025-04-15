@@ -28,17 +28,30 @@ National cybersecurity references such as INCIBE (Spain’s National Cybersecuri
 
 The project emphasizes the practical application of these standards, comparing their objectives, scope, and implementation benefits. It serves as a resource for professionals seeking to align their organizations with industry best practices, reduce cyber risk exposure, and establish a resilient security posture rooted in globally recognized frameworks.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nistp11.png" title="NIST CSF" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cobitp12.png" title="COBIT" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cis cscp13.png" title="CIS CSC" class="img-fluid rounded z-depth-1" %}
-    </div>
+<!-- CSS de Lightbox -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
+
+<!-- JS de Lightbox -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<div class="row text-center">
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="assets/img/nistp11.png" data-lightbox="standards" data-title="NIST CSF">
+      <img src="assets/img/nistp11.png" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="assets/img/cobitp12.png" data-lightbox="standards" data-title="COBIT">
+      <img src="assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="assets/img/cis cscp13.png" data-lightbox="standards" data-title="CIS CSC">
+      <img src="assets/img/cis cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
 </div>
+
 <div class="caption">
     These visual summaries provide a comparative look at three of the most widely adopted cybersecurity frameworks: NIST Cybersecurity Framework (CSF), COBIT, and the Center for Internet       Security Critical Security Controls (CIS CSC). Each of them offers unique strengths and areas of focus that support organizations in shaping their cybersecurity strategies.
 
