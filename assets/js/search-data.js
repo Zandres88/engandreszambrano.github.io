@@ -85,9 +85,9 @@ ninja.data = [{
           description: "A Python-based DNS auditing tool developed using prompt engineering with ChatGPT and the Shodan API. Designed for academic purposes, it runs in a secure virtual environment and demonstrates the use of AI in cybersecurity automation.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-ssh-and-telnet-audit-application-using-shodan-api",
+          title: 'SSH and Telnet Audit Application Using Shodan API',
+          description: "A Python application for auditing SSH and Telnet services, leveraging the Shodan API and prompt engineering with AI. The application scans the network and exports findings in CSV format for further analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/engandreszambrano.github.io/projects/8_project/";
             },},{id: "projects-project-9",
