@@ -6,6 +6,8 @@ img: assets/img/int_title.png
 importance: 1
 category: academic
 related_publications: true
+images:
+  lightbox2: true
 ---
 
 This project involves an in-depth analysis and presentation of key information security standards and frameworks that are commonly applied within business environments to ensure effective cybersecurity practices and risk management. It provides a structured overview of international and national models that support organizations in developing, maintaining, and continuously improving their security strategies.
