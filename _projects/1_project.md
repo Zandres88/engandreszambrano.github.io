@@ -32,17 +32,17 @@ The project emphasizes the practical application of these standards, comparing t
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/nistp11.png" data-lightbox="standards" data-title="NIST CSF">
+    <a href="{{ site.baseurl }}/assets/img/nistp11.png" data-lightbox="standards1" data-title="NIST CSF">
       <img src="{{ site.baseurl }}/assets/img/nistp11.png" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/cobitp12.png" data-lightbox="standards" data-title="COBIT">
+    <a href="{{ site.baseurl }}/assets/img/cobitp12.png" data-lightbox="standards1" data-title="COBIT">
       <img src="{{ site.baseurl }}/assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/cis_cscp13.png" data-lightbox="standards" data-title="CIS CSC">
+    <a href="{{ site.baseurl }}/assets/img/cis_cscp13.png" data-lightbox="standards1" data-title="CIS CSC">
       <img src="{{ site.baseurl }}/assets/img/cis_cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
@@ -122,17 +122,17 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/incibep114.png" data-lightbox="standards" data-title="INCIBE">
+    <a href="{{ site.baseurl }}/assets/img/incibep114.png" data-lightbox="standards2" data-title="INCIBE">
       <img src="{{ site.baseurl }}/assets/img/incibep114.png" alt="INCIBE" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/mspip115.png" data-lightbox="standards" data-title="MSPI">
+    <a href="{{ site.baseurl }}/assets/img/mspip115.png" data-lightbox="standards2" data-title="MSPI">
       <img src="{{ site.baseurl }}/assets/img/mspip115.png" alt="MSPI" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/cn_certp16.png" data-lightbox="standards" data-title="CN_Cert">
+    <a href="{{ site.baseurl }}/assets/img/cn_certp16.png" data-lightbox="standards2" data-title="CN_Cert">
       <img src="{{ site.baseurl }}/assets/img/cn_certp16.png" alt="CN_Cert" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
@@ -145,12 +145,12 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/owaspp118.png" data-lightbox="standards" data-title="OWASP">
+    <a href="{{ site.baseurl }}/assets/img/owaspp118.png" data-lightbox="standards3" data-title="OWASP">
       <img src="{{ site.baseurl }}/assets/img/owaspp118.png" alt="OWASP" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/owisamp119.png" data-lightbox="standards" data-title="OWISAM">
+    <a href="{{ site.baseurl }}/assets/img/owisamp119.png" data-lightbox="standards3" data-title="OWISAM">
       <img src="{{ site.baseurl }}/assets/img/owisamp119.png" alt="OWISAM" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
