@@ -1,24 +1,17 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Implementation of a Secure Recursive DNS Infrastructure with DNSSEC, Py-hole, Knot Resolver and VPN on Ubuntu Server
+description: This project focuses on building and securing a recursive DNS infrastructure using Ubuntu Server, Py-hole, and Knot Resolver. It includes DNSSEC, blacklist-based domain filtering, DNS-over-TLS/HTTPS, and VPN integration with OpenVPN and ProtonVPN, all deployed in a virtualized network environment managed by a MikroTik router.
+img: assets/img/img_title9.png
+importance: 9
+category: academic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project explores the implementation of a secure and privacy-focused recursive DNS infrastructure within a virtualized lab environment. The network is managed through a MikroTik router, while all DNS and VPN services are hosted on Ubuntu Server machines. The DNS infrastructure includes Py-hole for ad and tracker blocking and Knot Resolver as the recursive DNS server. Security features such as DNSSEC, DNS over TLS (DoT), and DNS over HTTPS (DoH) are configured to enhance the trustworthiness and confidentiality of DNS queries.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Domain filtering is implemented via blacklist files, allowing for flexible control over allowed and blocked content. To add another layer of privacy, VPN connectivity is configured using OpenVPN and ProtonVPN, with a kill switch mechanism that prevents DNS leaks in case of connection drops.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project also includes extensive testing phases that cover domain resolution performance, blacklist functionality, DNSSEC validation, and DNS behavior over VPN connections from both LAN and WAN devices, including mobile phones. This comprehensive setup offers a practical and robust example of secure DNS architecture in academic and experimental settings.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
