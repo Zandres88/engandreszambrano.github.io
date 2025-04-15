@@ -28,10 +28,10 @@ National cybersecurity references such as INCIBE (Spain’s National Cybersecuri
 
 The project emphasizes the practical application of these standards, comparing their objectives, scope, and implementation benefits. It serves as a resource for professionals seeking to align their organizations with industry best practices, reduce cyber risk exposure, and establish a resilient security posture rooted in globally recognized frameworks.
 
-<!-- CSS de Lightbox -->
+<!-- Lightbox2 CSS -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
 
-<!-- JS de Lightbox -->
+<!-- Lightbox2 JS (al final de body) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
 <div class="row text-center">
