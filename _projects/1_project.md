@@ -77,44 +77,44 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
 
 <div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="{{ site.baseurl }}/assets/img/iso_27001p16.png" data-lightbox="iso-standards" data-title="ISO 27001">
-            <img src="{{ site.baseurl }}/assets/img/iso_27001p16.png" alt="ISO 27001" class="img-fluid rounded z-depth-1" />
+        <a href="/assets/img/iso_27001p16.png" data-lightbox="iso-standards" data-title="ISO 27001">
+            <img src="/assets/img/iso_27001p16.png" alt="ISO 27001" class="img-fluid rounded z-depth-1" />
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="{{ site.baseurl }}/assets/img/iso_27005p17.png" data-lightbox="iso-standards" data-title="ISO 27005">
-            <img src="{{ site.baseurl }}/assets/img/iso_27005p17.png" alt="ISO 27005" class="img-fluid rounded z-depth-1" />
-        </a>
-    </div>
-</div>
-<div class="row mt-4">
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="{{ site.baseurl }}/assets/img/iso_27002p18.png" data-lightbox="iso-standards" data-title="ISO 27002">
-            <img src="{{ site.baseurl }}/assets/img/iso_27002p18.png" alt="ISO 27002" class="img-fluid rounded z-depth-1" />
-        </a>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="{{ site.baseurl }}/assets/img/iso_31000p19.png" data-lightbox="iso-standards" data-title="ISO 31000">
-            <img src="{{ site.baseurl }}/assets/img/iso_31000p19.png" alt="ISO 31000" class="img-fluid rounded z-depth-1" />
+        <a href="/assets/img/iso_27005p17.png" data-lightbox="iso-standards" data-title="ISO 27005">
+            <img src="/assets/img/iso_27005p17.png" alt="ISO 27005" class="img-fluid rounded z-depth-1" />
         </a>
     </div>
 </div>
 <div class="row mt-4">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="{{ site.baseurl }}/assets/img/iso_27032p110.png" data-lightbox="iso-standards" data-title="ISO 27032">
-            <img src="{{ site.baseurl }}/assets/img/iso_27032p110.png" alt="ISO 27032" class="img-fluid rounded z-depth-1" />
+        <a href="/assets/img/iso_27002p18.png" data-lightbox="iso-standards" data-title="ISO 27002">
+            <img src="/assets/img/iso_27002p18.png" alt="ISO 27002" class="img-fluid rounded z-depth-1" />
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="{{ site.baseurl }}/assets/img/iso_27035p111.png" data-lightbox="iso-standards" data-title="ISO 27035">
-            <img src="{{ site.baseurl }}/assets/img/iso_27035p111.png" alt="ISO 27035" class="img-fluid rounded z-depth-1" />
+        <a href="/assets/img/iso_31000p19.png" data-lightbox="iso-standards" data-title="ISO 31000">
+            <img src="/assets/img/iso_31000p19.png" alt="ISO 31000" class="img-fluid rounded z-depth-1" />
+        </a>
+    </div>
+</div>
+<div class="row mt-4">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="/assets/img/iso_27032p110.png" data-lightbox="iso-standards" data-title="ISO 27032">
+            <img src="/assets/img/iso_27032p110.png" alt="ISO 27032" class="img-fluid rounded z-depth-1" />
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="/assets/img/iso_27035p111.png" data-lightbox="iso-standards" data-title="ISO 27035">
+            <img src="/assets/img/iso_27035p111.png" alt="ISO 27035" class="img-fluid rounded z-depth-1" />
         </a>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="{{ site.baseurl }}/assets/img/iso_22302p112.png" title="ISO 22301" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/iso_22302p112.png" title="ISO 22301" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -122,18 +122,18 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/incibep114.png" data-lightbox="standards2" data-title="INCIBE">
-      <img src="{{ site.baseurl }}/assets/img/incibep114.png" alt="INCIBE" class="img-fluid rounded z-depth-1" />
+    <a href="/assets/img/incibep114.png" data-lightbox="standards2" data-title="INCIBE">
+      <img src="/assets/img/incibep114.png" alt="INCIBE" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/mspip115.png" data-lightbox="standards2" data-title="MSPI">
-      <img src="{{ site.baseurl }}/assets/img/mspip115.png" alt="MSPI" class="img-fluid rounded z-depth-1" />
+    <a href="/assets/img/mspip115.png" data-lightbox="standards2" data-title="MSPI">
+      <img src="/assets/img/mspip115.png" alt="MSPI" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/cn_certp16.png" data-lightbox="standards2" data-title="CN_Cert">
-      <img src="{{ site.baseurl }}/assets/img/cn_certp16.png" alt="CN_Cert" class="img-fluid rounded z-depth-1" />
+    <a href="/assets/img/cn_certp16.png" data-lightbox="standards2" data-title="CN_Cert">
+      <img src="/assets/img/cn_certp16.png" alt="CN_Cert" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
 </div>
@@ -145,13 +145,13 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/owaspp118.png" data-lightbox="standards3" data-title="OWASP">
-      <img src="{{ site.baseurl }}/assets/img/owaspp118.png" alt="OWASP" class="img-fluid rounded z-depth-1" />
+    <a href="/assets/img/owaspp118.png" data-lightbox="standards3" data-title="OWASP">
+      <img src="/assets/img/owaspp118.png" alt="OWASP" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="{{ site.baseurl }}/assets/img/owisamp119.png" data-lightbox="standards3" data-title="OWISAM">
-      <img src="{{ site.baseurl }}/assets/img/owisamp119.png" alt="OWISAM" class="img-fluid rounded z-depth-1" />
+    <a href="/assets/img/owisamp119.png" data-lightbox="standards3" data-title="OWISAM">
+      <img src="/assets/img/owisamp119.png" alt="OWISAM" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
 </div>
