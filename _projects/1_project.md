@@ -71,12 +71,16 @@ By understanding the distinct purpose and focus of standards such as ISO 27001, 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/iso 27005p17.png" title="ISO 27005" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/iso 27002p18.png" title="ISO 27002" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/iso 31000p19.png" title="ISO 31000" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/iso 27032p110.png" title="ISO 27032" class="img-fluid rounded z-depth-1" %}
     </div>
