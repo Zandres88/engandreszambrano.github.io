@@ -37,7 +37,7 @@ The project emphasizes the practical application of these standards, comparing t
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    <a href="/assets/img/cobitp12.png" data-lightbox="standards1" data-title="COBIT">
+    <a href="{{ site.baseurl }}/assets/img/cobitp12.png" data-lightbox="standards1" data-title="COBIT">
       <img src="/assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
