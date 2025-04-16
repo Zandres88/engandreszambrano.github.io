@@ -31,17 +31,19 @@ National cybersecurity references such as INCIBE (Spain’s National Cybersecuri
 The project emphasizes the practical application of these standards, comparing their objectives, scope, and implementation benefits. It serves as a resource for professionals seeking to align their organizations with industry best practices, reduce cyber risk exposure, and establish a resilient security posture rooted in globally recognized frameworks.
 
 <div class="row text-center">
-  <a href="{{ '/assets/img/nistp11.png' | relative_url }}" data-lightbox="standards1" data-title="NIST CSF">
-    <img src="{{ '/assets/img/nistp11.png' | relative_url }}" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
-  </a>
+  <div class="col-sm mt-3 mt-md-0">
+    <a href="/assets/img/nistp11.png" data-lightbox="standards1" data-title="NIST">
+      <img src="/assets/img/nistp11.png" alt="NIST" class="img-fluid rounded z-depth-1" />
+    </a>
+  </div>
   <div class="col-sm mt-3 mt-md-0">
     <a href="/assets/img/cobitp12.png" data-lightbox="standards1" data-title="COBIT">
-      <img src="{{ site.baseurl }}/assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
+      <img src="/assets/img/cobitp12.png" alt="COBIT" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
     <a href="/assets/img/cis_cscp13.png" data-lightbox="standards1" data-title="CIS CSC">
-      <img src="{{ site.baseurl }}/assets/img/cis_cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
+      <img src="/assets/img/cis_cscp13.png" alt="CIS CSC" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
 </div>
