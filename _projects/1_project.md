@@ -32,8 +32,8 @@ The project emphasizes the practical application of these standards, comparing t
 
 <div class="row text-center">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="/assets/img/nistp11.png" data-lightbox="standards1" data-title="NIST CSF">
-      <img src="{{ site.baseurl }}/assets/img/nistp11.png" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
+    <a href="{{ site.baseurl }}/assets/img/nistp11.png" data-lightbox="standards1" data-title="NIST CSF">
+      <img src="/assets/img/nistp11.png" alt="NIST CSF" class="img-fluid rounded z-depth-1" />
     </a>
   </div>
   <div class="col-sm mt-3 mt-md-0">
